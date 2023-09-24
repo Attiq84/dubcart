@@ -26,11 +26,11 @@
       ],
       "settings": {
         "section_height": "100vh",
-        "mobile_height": "auto",
+        "mobile_height": "100vh",
         "parallax": false,
-        "style": "bars",
+        "style": "minimal",
         "autoplay": false,
-        "autoplay_speed": 5
+        "autoplay_speed": 10
       }
     }
   },

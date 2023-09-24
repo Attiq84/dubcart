@@ -103,9 +103,9 @@
           "1524770296206"
         ],
         "settings": {
-          "main_menu_link_list": "main-menu",
+          "main_menu_link_list": "policies",
           "mega_menu_images": true,
-          "main_menu_alignment": "left-center",
+          "main_menu_alignment": "center-drawer",
           "header_style": "sticky",
           "sticky_index": false,
           "sticky_collection": false,
