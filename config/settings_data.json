@@ -127,7 +127,23 @@
             "settings": {
               "show_footer_title": false,
               "menu": "footer",
-              "container_width": 25
+              "container_width": 22
+            }
+          },
+          "135d156b-b6bd-4dd1-b269-f685691ffc44": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": false,
+              "menu": "footer",
+              "container_width": 22
+            }
+          },
+          "324308bc-d565-4263-a22f-104e25529102": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": false,
+              "menu": "footer",
+              "container_width": 23
             }
           },
           "1494292487693": {
@@ -138,19 +154,13 @@
               "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
               "container_width": 33
             }
-          },
-          "1494301487048": {
-            "type": "logo_social",
-            "settings": {
-              "desktop_logo_height": 50,
-              "container_width": 95
-            }
           }
         },
         "block_order": [
           "1494301487049",
-          "1494292487693",
-          "1494301487048"
+          "135d156b-b6bd-4dd1-b269-f685691ffc44",
+          "324308bc-d565-4263-a22f-104e25529102",
+          "1494292487693"
         ],
         "settings": {
           "show_locale_selector": true,
