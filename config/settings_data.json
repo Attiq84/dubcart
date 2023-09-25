@@ -104,7 +104,7 @@
           "1524770296206"
         ],
         "settings": {
-          "main_menu_link_list": "policies",
+          "main_menu_link_list": "",
           "mega_menu_images": true,
           "main_menu_alignment": "left-center",
           "header_style": "sticky",
@@ -112,7 +112,7 @@
           "sticky_collection": false,
           "announcement_compact": true,
           "announcement_above_header": true,
-          "toolbar_menu": "",
+          "toolbar_menu": "policies",
           "toolbar_social": true,
           "show_locale_selector": true,
           "show_currency_selector": true,
