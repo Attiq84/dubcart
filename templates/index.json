@@ -32,9 +32,95 @@
         "autoplay": false,
         "autoplay_speed": 10
       }
+    },
+    "6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--21059078390043__6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--21059078390043__6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--21059078390043__6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--21059078390043__6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "b29411a1-d906-4c7b-83de-443c05673f54": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "eff33efe-4a84-45fa-a362-238af5cd0650": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "cb2ab199-8648-4413-8a01-ff2a818ba954": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "a27a4454-0aaa-4ad9-9dd4-3ffd3e19b7f6": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--21059078390043__6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5-collection-1",
+        "template--21059078390043__6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5-collection-2",
+        "template--21059078390043__6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5-collection-3",
+        "template--21059078390043__6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5-collection-4",
+        "b29411a1-d906-4c7b-83de-443c05673f54",
+        "eff33efe-4a84-45fa-a362-238af5cd0650",
+        "cb2ab199-8648-4413-8a01-ff2a818ba954",
+        "a27a4454-0aaa-4ad9-9dd4-3ffd3e19b7f6"
+      ],
+      "settings": {
+        "title": "Collection list",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
     }
   },
   "order": [
-    "slideshow"
+    "slideshow",
+    "6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5"
   ]
 }
