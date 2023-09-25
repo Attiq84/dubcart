@@ -117,10 +117,172 @@
         "per_row": 4,
         "enable_gutter": true
       }
+    },
+    "5661e29a-822c-4e76-ae5f-736b3584c740": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--21059078390043__5661e29a-822c-4e76-ae5f-736b3584c740-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "template--21059078390043__5661e29a-822c-4e76-ae5f-736b3584c740-advanced-2": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21059078390043__5661e29a-822c-4e76-ae5f-736b3584c740-advanced-1",
+        "template--21059078390043__5661e29a-822c-4e76-ae5f-736b3584c740-advanced-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true
+      }
+    },
+    "9e189414-1ba0-40e0-a7a4-5e423996eb31": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "a07c8275-0bae-4775-91b6-8b554d80ce7c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "d0828fc4-3abd-4614-b67b-fc7ff6ee0084": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large image with text box",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": true
+      }
+    },
+    "b003725d-b759-421a-8a6f-ebfb54fbfdcc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "12e718e1-6953-492b-95e3-1111454f1f7e": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-1",
+        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-2",
+        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
     "slideshow",
-    "6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5"
+    "6a9149fe-e9b2-4e9c-b26e-d2dce1fb34b5",
+    "5661e29a-822c-4e76-ae5f-736b3584c740",
+    "9e189414-1ba0-40e0-a7a4-5e423996eb31",
+    "a07c8275-0bae-4775-91b6-8b554d80ce7c",
+    "d0828fc4-3abd-4614-b67b-fc7ff6ee0084",
+    "b003725d-b759-421a-8a6f-ebfb54fbfdcc",
+    "12e718e1-6953-492b-95e3-1111454f1f7e"
   ]
 }
