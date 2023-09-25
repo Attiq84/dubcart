@@ -125,7 +125,7 @@
           "1494301487049": {
             "type": "menu",
             "settings": {
-              "show_footer_title": false,
+              "show_footer_title": true,
               "menu": "footer",
               "container_width": 22
             }
@@ -133,7 +133,7 @@
           "135d156b-b6bd-4dd1-b269-f685691ffc44": {
             "type": "menu",
             "settings": {
-              "show_footer_title": false,
+              "show_footer_title": true,
               "menu": "footer",
               "container_width": 22
             }
@@ -141,8 +141,8 @@
           "324308bc-d565-4263-a22f-104e25529102": {
             "type": "menu",
             "settings": {
-              "show_footer_title": false,
-              "menu": "footer",
+              "show_footer_title": true,
+              "menu": "policies",
               "container_width": 23
             }
           },
