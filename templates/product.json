@@ -109,12 +109,6 @@
         "related_count": 5
       }
     },
-    "recently-viewed": {
-      "type": "recently-viewed",
-      "settings": {
-        "recent_count": 5
-      }
-    },
     "collection-return": {
       "type": "collection-return",
       "settings": {
@@ -125,7 +119,6 @@
     "main",
     "sub",
     "product-recommendations",
-    "recently-viewed",
     "collection-return"
   ]
 }
