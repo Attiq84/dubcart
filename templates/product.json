@@ -29,17 +29,17 @@
             "text": "Free worldwide shipping"
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
             "surface_pickup_enable": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
           }
         },
         "tab": {
@@ -56,6 +56,14 @@
             "title": "Ask a question",
             "phone": false
           }
+        },
+        "90415501-d285-444e-89c9-afa449679758": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -63,10 +71,11 @@
         "separator",
         "variant_picker",
         "sales_point",
-        "buy_buttons",
         "description",
+        "buy_buttons",
         "tab",
-        "contact"
+        "contact",
+        "90415501-d285-444e-89c9-afa449679758"
       ],
       "settings": {
         "sku_enable": false,
