@@ -225,54 +225,6 @@
         "view_all": true,
         "divider": false
       }
-    },
-    "12e718e1-6953-492b-95e3-1111454f1f7e": {
-      "type": "text-columns",
-      "blocks": {
-        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-3": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-1",
-        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-2",
-        "template--21059078390043__12e718e1-6953-492b-95e3-1111454f1f7e-text_block-3"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
     }
   },
   "order": [
@@ -282,7 +234,6 @@
     "9e189414-1ba0-40e0-a7a4-5e423996eb31",
     "a07c8275-0bae-4775-91b6-8b554d80ce7c",
     "d0828fc4-3abd-4614-b67b-fc7ff6ee0084",
-    "b003725d-b759-421a-8a6f-ebfb54fbfdcc",
-    "12e718e1-6953-492b-95e3-1111454f1f7e"
+    "b003725d-b759-421a-8a6f-ebfb54fbfdcc"
   ]
 }
